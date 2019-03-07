@@ -1,0 +1,15 @@
+{
+  "name": "@minjs/egg-tbk",
+  "version": "1.0.0",
+  "description": "tbk plugin for egg",
+  "eggPlugin": {
+    "name": "tbk"
+  },
+  "keywords": [
+    "egg",
+    "egg-plugin",
+    "eggPlugin",
+    "egg-tbk",
+    "@minjs"
+  ]
+}
